@@ -1,12 +1,12 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
-  font-family: Georgia, serif; 
+  background-color: #F54927; 
+  font-family: 'Times New Roman', Times, serif, serif; 
 }
 
 article {
-  margin-left: 10vw; 
+  margin-left: 20vw; 
   margin-right: 10vw; 
 }
 
@@ -16,16 +16,17 @@ h1 {
 }
 
 h2 {
+  text-align:left;
   font-size: 36px; 
 }
 
 p {
-  text-align: center; 
+  text-align: left; 
   font-size: 20px; 
 }
 
 ul {
-  font-size: 20px; 
+  font-size: 32px; 
   list-style-type: square; 
 }
 
